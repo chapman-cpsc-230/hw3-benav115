@@ -12,7 +12,7 @@ t = turtle.Pen()
 # Put the rest of your code can go here
 for side in range(num_sides):
     t.forward(side_len)
-    t.left(720.0/num_sides)
+    t.left(180-180/num_sides)
 # Prevent the graphics window from diappearing too
 # quickly to see it.
 stopper = raw_input("Hit <enter> to quit.")

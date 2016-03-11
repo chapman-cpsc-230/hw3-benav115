@@ -14,18 +14,18 @@ not c == 40
 not c > 40
 # c is not greater than 40
 not False
-# the expression is not false
+# true
 True and False
-# the expression is both true and false
+# false
 False or True
-# the expression is either false or true
+#true
 False or False or False
-#this expression is false
+#false
 True and True and False
-#this expression is both true and false
+# false
 False == 0
-#the expression means that false is equal to zero
+#true
 True == 0
-#this expression means that true is equal to zero
+#false
 True == 1
-#this expression means that true is equal to one
+#true
