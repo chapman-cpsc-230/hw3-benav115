@@ -1,6 +1,6 @@
 # Instructions
 
-This assignement is due on Friday March 11 at 8:00AM. I will start grading on Friday morning. I suggest you plan to submit the work no later than Thursday evening.
+This assignment is due on Friday March 11 at 8:00AM. I will start grading on Friday morning. I suggest you plan to submit the work no later than Thursday evening.
 
 ## This Assignment
 

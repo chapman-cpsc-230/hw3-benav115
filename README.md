@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** _Rachel Benavente_
 
-**Due date:** _\<date\>_
+**Due date:** _March 10, 2016_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_This assignment had us complete two exercise from the book and had us practice new skills using turtle pen._
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_I learned how to use Boolean equations and practice using the turtle pen, a special feature form python which allows us to draw shapes and objects using user inquiries._
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_Rachel Benavente_
